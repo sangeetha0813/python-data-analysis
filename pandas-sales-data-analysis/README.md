@@ -184,7 +184,7 @@ Examples include:
 
 ---
 
-#  Pandas Functions Used
+##  Pandas Functions Used
 
 This project demonstrates practical usage of the following Pandas functions and methods:
 
@@ -238,4 +238,3 @@ It serves as a hands-on reference for practicing Pandas fundamentals and solving
 
 ---
 
-⭐ *If you find this project useful, feel free to explore the notebook and use the practice questions for your own learning.*
