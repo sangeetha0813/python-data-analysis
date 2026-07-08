@@ -4,20 +4,21 @@ A hands-on Pandas practice project built using a sample sales dataset. This repo
 most of the Pandas concepts commonly used in data analysis.
 The goal of this project is to strengthen my understanding of data manipulation, filtering, aggregation, grouping, pivot tables, and business analysis using Python and Pandas.
 
-** Dataset **
+ Dataset 
+ 
 File: sales_data.csv
 The dataset contains information such as:
 
-Order ID
-Customer
-City
-Category
-Product
-Price
-Quantity
-Sales
-Discount
-Payment Mode
+Order ID,
+Customer,
+City,
+Category,
+Product,
+Price,
+Quantity,
+Sales,
+Discount,
+Payment Mode,
 Order Status
 
 Technologies Used
@@ -134,31 +135,31 @@ Duplicate customers
 Customer order counts
 
 Pandas function utilized in this project
-read_csv()
-head()
-tail()
-shape
-columns
-dtypes
-info()
-describe()
-Boolean Indexing
-loc
-isin()
-sort_values()
-groupby()
-pivot_table()
-value_counts()
-fillna()
-dropna()
-astype()
-sum()
-mean()
-max()
-min()
-count()
-nunique()
-idxmax()
+read_csv(),
+head(),
+tail(),
+shape,
+columns,
+dtypes,
+info(),
+describe(),
+Boolean Indexing,
+loc,
+isin(),
+sort_values(),
+groupby(),
+pivot_table(),
+value_counts(),
+fillna(),
+dropna(),
+astype(),
+sum(),
+mean(),
+max(),
+min(),
+count(),
+nunique(),
+idxmax(),
 to_csv()
 
 Acknowledgements
